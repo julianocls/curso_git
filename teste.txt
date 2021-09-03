@@ -2,4 +2,4 @@ arquivo de teste
 senhas
 senhas
 senhas
-s
+new test
